@@ -1,0 +1,26 @@
+[
+  {
+    "title":"Romantic Walk",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjQO0iKMUmkr4ABCQw2L3r9K_a5L_FiKF9GA&usqp=CAU",
+    "location":"Hudson River",
+    "distance":19
+  },
+  {
+    "title":"Bike Training",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQyU_EP18DjlozShJjvj3nwSRqgBQinMFV-A&usqp=CAU",
+    "location":"Central Park",
+    "distance":14
+  },
+  {
+    "title":"Caotic Run",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvXqLSULL0lJRx7J7NkzSIqILcWqMv4Wzqhw&usqp=CAU",
+    "location":"İstanbul",
+    "distance":8
+  },
+  {
+    "title":"Metrobüs",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR03b6nsoHbcn53diIb6rgJCsBtgGQ5VMux_A&usqp=CAU",
+    "location":"Avcılar-Kadıköy ",
+    "distance":50
+  }
+]
